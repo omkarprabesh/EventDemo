@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfUEutuKgcdg44GfCgHrOMzHT+zBgCl1o08rZVr+6BL9rHCHRLjBaEKRvALHXVKrpz+G0AfFBAHt8PdwA71XFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penca\\source\\repos\\EventSample\\EventSample\\EventSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
